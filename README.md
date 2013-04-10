@@ -3,6 +3,7 @@ youtube-search-tool
 
 This tool provides a simple user interface to conduct an automated video search on YouTube, based on given keywords. 
 Tool has four main capabilities. These are 
+
 1) Keyword management, 
 2) Video entry retrieval through YouTube Data API, 
 3) Video filtering and 
